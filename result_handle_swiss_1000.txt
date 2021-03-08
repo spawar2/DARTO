@@ -1,0 +1,200 @@
+>sp|P55245.2| RecName: Full=Epidermal growth factor receptor; Flags: Precursor [Macaca mulatta]
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKVKIPVAIKELREATSPKANKEILDEAYVMASV
+>sp|P00533.2| RecName: Full=Epidermal growth factor receptor; AltName: Full=Proto-oncogene c-ErbB-1; AltName: Full=Receptor tyrosine-protein kinase erbB-1; Flags: Precursor [Homo sapiens]
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKVKIPVAIKELREATSPKANKEILDEAYVMASV
+>sp|Q01279.1| RecName: Full=Epidermal growth factor receptor; Flags: Precursor [Mus musculus]
+SGEAPNQAHLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKVKIPVAIKELREATSPKANKEILDEAYVMASV
+>sp|P00534.2| RecName: Full=Tyrosine-protein kinase transforming protein erbB [Avian leukosis virus]
+SGEAPNQAHLRILKETEFKKVKVLGSGAFGTVYKGLWIPEGEKVKIPVAIKELREATSPKANKEILDEAYVMASV
+>sp|P00535.1| RecName: Full=Tyrosine-protein kinase transforming protein erbB [Avian erythroblastosis virus (strain ES4)]
+SGEAPNQAHLRILKETEFKKVKVLGSGAFGTIYKGLWIPEGEKVKIPVAIKELREATSPKANKEILDEAYVMASV
+>sp|P11273.1| RecName: Full=Tyrosine-protein kinase transforming protein erbB [Avian erythroblastosis virus (strain ts167)]
+SGEAPNQAHLRILKETEFKKVKVLGFGAFGTVYKGLWIPEGEKVTIPVAIKELREATSPKANKEILDEAYVMASV
+>sp|Q61527.5| RecName: Full=Receptor tyrosine-protein kinase erbB-4; AltName: Full=Proto-oncogene-like protein c-ErbB-4; Contains: RecName: Full=ERBB4 intracellular domain; Short=4ICD; Short=E4ICD; AltName: Full=s80HER4; Flags: Precursor [Mus musculus]
+SGTAPNQAQLRILKETELKRVKVLGSGAFGTVYKGIWVPEGETVKIPVAIKILNETTGPKANVEFMDEALIMASM
+>sp|Q62956.3| RecName: Full=Receptor tyrosine-protein kinase erbB-4; AltName: Full=Proto-oncogene-like protein c-ErbB-4; Contains: RecName: Full=ERBB4 intracellular domain; Short=4ICD; Short=E4ICD; AltName: Full=s80HER4; Flags: Precursor [Rattus norvegicus]
+SGTAPNQAQLRILKETELKRVKVLGSGAFGTVYKGIWVPEGETVKIPVAIKILNETTGPKANVEFMDEALIMASV
+>sp|Q15303.1| RecName: Full=Receptor tyrosine-protein kinase erbB-4; AltName: Full=Proto-oncogene-like protein c-ErbB-4; AltName: Full=Tyrosine kinase-type cell surface receptor HER4; AltName: Full=p180erbB4; Contains: RecName: Full=ERBB4 intracellular domain; Short=4ICD; Short=E4ICD; AltName: Full=s80HER4; Flags: Precursor [Homo sapiens]
+SGTAPNQAQLRILKETELKRVKVLGSGAFGTVYKGIWVPEGETVKIPVAIKILNETTGPKANVEFMDEALIMASM
+>sp|P06494.3| RecName: Full=Receptor tyrosine-protein kinase erbB-2; AltName: Full=Epidermal growth factor receptor-related protein; AltName: Full=Proto-oncogene Neu; AltName: Full=Proto-oncogene c-ErbB-2; AltName: Full=p185erbB2; AltName: Full=p185neu; AltName: CD_antigen=CD340; Flags: Precursor [Rattus norvegicus]
+SGAMPNQAQMRILKETELRKVKVLGSGAFGTVYKGIWIPDGENVKIPVAIKVLRENTSPKANKEILDEAYVMAGV
+>sp|O18735.1| RecName: Full=Receptor tyrosine-protein kinase erbB-2; AltName: Full=Proto-oncogene c-ErbB-2; AltName: Full=p185erbB2; AltName: CD_antigen=CD340; Flags: Precursor [Canis lupus familiaris]
+SGAMPNQAQMRILKETELRKVKVLGSGAFGTVYKGIWIPDGENVKIPVAIKVLRENTSPKANKEILDEAYVMAGV
+>sp|Q60553.1| RecName: Full=Receptor tyrosine-protein kinase erbB-2; AltName: Full=Proto-oncogene Neu; AltName: Full=Proto-oncogene c-ErbB-2; AltName: Full=p185erbB2; AltName: CD_antigen=CD340; Flags: Precursor [Mesocricetus auratus]
+SGAMPNQAQMRILKETELRKVKVLGSGAFGTVYKGIWIPDGENVKIPVAIKVLRENTSPKANKEILDEAYVMAGL
+>sp|P04626.1| RecName: Full=Receptor tyrosine-protein kinase erbB-2; AltName: Full=Metastatic lymph node gene 19 protein; Short=MLN 19; AltName: Full=Proto-oncogene Neu; AltName: Full=Proto-oncogene c-ErbB-2; AltName: Full=Tyrosine kinase-type cell surface receptor HER2; AltName: Full=p185erbB2; AltName: CD_antigen=CD340; Flags: Precursor [Homo sapiens]
+SGAMPNQAQMRILKETELRKVKVLGSGAFGTVYKGIWIPDGENVKIPVAIKVLRENTSPKANKEILDEAYVMAGV
+>sp|P70424.3| RecName: Full=Receptor tyrosine-protein kinase erbB-2; AltName: Full=Proto-oncogene Neu; AltName: Full=Proto-oncogene c-ErbB-2; AltName: Full=p185erbB2; AltName: CD_antigen=CD340; Flags: Precursor [Mus musculus]
+SGAVPNQAQMRILKETELRKLKVLGSGAFGTVYKGIWIPDGENVKIPVAIKVLRENTSPKANKEILDEAYVMAGV
+>sp|P13388.2| RecName: Full=Melanoma receptor tyrosine-protein kinase; Flags: Precursor [Xiphophorus maculatus]
+SGQAPNQAFLRILKETEFKKDRVLGSGAFGTVYKGLWNPDGENIRIPVAIKVLREATSPKVNQEVLDEAYVMASV
+>sp|P0CY46.1| RecName: Full=Epidermal growth factor receptor; Short=Egfr [Apis mellifera]
+TGVKPNLAKLRIIKEEEMRKGGILGYGAFGNVYKGVWVPEGENVKIPVAIKVLHDGTGANTSKEFLDEAYIMASV
+>sp|P04412.3| RecName: Full=Epidermal growth factor receptor; Short=Egfr; AltName: Full=Drosophila relative of ERBB; AltName: Full=Gurken receptor; AltName: Full=Protein torpedo; Flags: Precursor [Drosophila melanogaster]
+NLCKLRIVKDAELRKGGVLGMGAFGRVYKGVWVPEGENVKIPVAIKELLKSTGAESSEEFLREAYIMASEEHVNL
+>sp|Q61526.2| RecName: Full=Receptor tyrosine-protein kinase erbB-3; AltName: Full=Glial growth factor receptor; AltName: Full=Proto-oncogene-like protein c-ErbB-3; Flags: Precursor [Mus musculus]
+EKANKVLARIFKETELRKLKVLGSGVFGTVHKGIWIPEGESIKIPVCIKVIEDKSGRQSFQAVTDHMLAVGSLDH
+>sp|Q5RB22.1| RecName: Full=Receptor tyrosine-protein kinase erbB-3; AltName: Full=Proto-oncogene-like protein c-ErbB-3; Flags: Precursor [Pongo abelii]
+EKANKVLARIFKETELKKLKVLGSGVFGTVHKGVWIPEGESIKIPVCIKVIEDKSGRQSFQAVTDHMLAIGSLDH
+>sp|P21860.1| RecName: Full=Receptor tyrosine-protein kinase erbB-3; AltName: Full=Proto-oncogene-like protein c-ErbB-3; AltName: Full=Tyrosine kinase-type cell surface receptor HER3; Flags: Precursor [Homo sapiens]
+EKANKVLARIFKETELRKLKVLGSGVFGTVHKGVWIPEGESIKIPVCIKVIEDKSGRQSFQAVTDHMLAIGSLDH
+>sp|Q62799.3| RecName: Full=Receptor tyrosine-protein kinase erbB-3; AltName: Full=Proto-oncogene-like protein c-ErbB-3; Flags: Precursor [Rattus norvegicus]
+EKANKVLARIFKETELRKLKVLGSGVFGTVHKGIWIPEGESIKIPVCIKVIEDKSGRQSFQAVTDHMLAVGSLDH
+>sp|P24348.3| RecName: Full=Receptor tyrosine-protein kinase let-23; AltName: Full=Lethal protein 23; Flags: Precursor [Caenorhabditis elegans]
+PNMSRICLIPSSELQTKLDKKLGAGAFGTVFAGIYYPKRAKNVKIPVAIKVFQ--TDQSQTDEMLEEATNMFRLR
+>sp|P53356.1| RecName: Full=Tyrosine-protein kinase HTK16 [Hydra vulgaris]
+NNAQQNIILKESISFGKELGVGEFGSVIKGIWLSPGGK-EINVAMKTLHKDKMVQGEKEFLREALVMSQLNHPCI
+>sp|F1N9Y5.2| RecName: Full=Tyrosine-protein kinase SYK [Gallus gallus]
+LGSGNFGTVKKGFYKMKKGAK---PVAVKILKNESNDPAIKDELLREANVMQQLDNPYIVRMIGICEAEAWMLVM
+>sp|Q00655.1| RecName: Full=Tyrosine-protein kinase SYK; AltName: Full=Spleen tyrosine kinase; Contains: RecName: Full=72 kDa tyrosine-protein kinase SYK; Contains: RecName: Full=40 kDa tyrosine-protein kinase SYK [Sus scrofa]
+KELGSGNFGTVKKGYYQMKKVVKTVAVKILK-NEANDPALKDELLAEANVMQQLDNPYIVRMIGICEAESWMLVM
+>sp|Q07912.3| RecName: Full=Activated CDC42 kinase 1; Short=ACK-1; AltName: Full=Tyrosine kinase non-receptor protein 2 [Homo sapiens]
+AGEGPLQSLTCLIGEKDLRLLEKLGDGSFGVVRRGEWDAPSGKTVSVAVKCLKPDVLSQPEAMDDFIREVNAMHS
+>sp|P34152.4| RecName: Full=Focal adhesion kinase 1; Short=FADK 1; AltName: Full=Focal adhesion kinase-related nonkinase; Short=FRNK; AltName: Full=Protein-tyrosine kinase 2; AltName: Full=p125FAK; AltName: Full=pp125FAK [Mus musculus]
+RCIGEGQFGDVHQGVYL-SPENPALAVAIKTCKNCTSDSVREKFLQEALTMRQFDHPHIVKLIGVITENPVWIIM
+>sp|Q64725.1| RecName: Full=Tyrosine-protein kinase SYK; AltName: Full=Spleen tyrosine kinase; AltName: Full=p72Syk [Rattus norvegicus]
+LGSGNFGTVKKGYYQMKKVVKTVAVKILK-NEANDPALKDELLAEANVMQQLDNPYIVRMIGICEAESWMLVMEM
+>sp|O35346.1| RecName: Full=Focal adhesion kinase 1; Short=FADK 1; AltName: Full=Focal adhesion kinase-related nonkinase; Short=FRNK; AltName: Full=Protein-tyrosine kinase 2; AltName: Full=p125FAK; AltName: Full=pp125FAK [Rattus norvegicus]
+RCIGEGQFGDVHQGVYL-SPENPALAVAIKTCKNCTSDSVREKFLQEALTMRQFDHPHIVKLIGVITENPVWIIM
+>sp|Q05397.2| RecName: Full=Focal adhesion kinase 1; Short=FADK 1; AltName: Full=Focal adhesion kinase-related nonkinase; Short=FRNK; AltName: Full=Protein phosphatase 1 regulatory subunit 71; Short=PPP1R71; AltName: Full=Protein-tyrosine kinase 2; AltName: Full=p125FAK; AltName: Full=pp125FAK [Homo sapiens]
+RCIGEGQFGDVHQGIYM-SPENPALAVAIKTCKNCTSDSVREKFLQEALTMRQFDHPHIVKLIGVITENPVWIIM
+>sp|P43405.1| RecName: Full=Tyrosine-protein kinase SYK; AltName: Full=Spleen tyrosine kinase; AltName: Full=p72-Syk [Homo sapiens]
+KELGSGNFGTVKKGYYQMKKVVKTVAVKILK-NEANDPALKDELLAEANVMQQLDNPYIVRMIGICEAESWMLVM
+>sp|Q5U2X5.1| RecName: Full=Activated CDC42 kinase 1; Short=ACK-1; AltName: Full=Tyrosine kinase non-receptor protein 2 [Rattus norvegicus]
+AGEGTLQSLTCLIGEKDLRLLEKLGDGSFGVVRRGEWDAPAGKTVSVAVKCLKPDVLSQPEAMDDFIREVNAMHS
+>sp|Q91738.2| RecName: Full=Focal adhesion kinase 1; Short=FADK 1; AltName: Full=Protein-tyrosine kinase 2; AltName: Full=pp125FAK [Xenopus laevis]
+RCIGEGQFGDVHQGVYM-SPENPAMAVAIKTCKNCTSDSVREKFLQEALTMRQFDHPHIVKLIGVITENPVWIIM
+>sp|P48025.2| RecName: Full=Tyrosine-protein kinase SYK; AltName: Full=Spleen tyrosine kinase [Mus musculus]
+LGSGNFGTVKKGYYQMKKVVKTVAVKILK-NEANDPALKDELLAEANVMQQLDNPYIVRMIGICEAESWMLVMEM
+>sp|P42684.1| RecName: Full=Tyrosine-protein kinase ABL2; AltName: Full=Abelson murine leukemia viral oncogene homolog 2; AltName: Full=Abelson tyrosine-protein kinase 2; AltName: Full=Abelson-related gene protein; AltName: Full=Tyrosine-protein kinase ARG [Homo sapiens]
+MERTDITMKHKLGGGQYGEVYVGVW----KKYSLTVAVKTLKEDT--MEVEEFLKEAAVMKEIKHPNLVQLLGVC
+>sp|P70600.1| RecName: Full=Protein-tyrosine kinase 2-beta; AltName: Full=Calcium-dependent tyrosine kinase; Short=CADTK; AltName: Full=Calcium-regulated non-receptor proline-rich tyrosine kinase; AltName: Full=Cell adhesion kinase beta; Short=CAK-beta; Short=CAKB; AltName: Full=Focal adhesion kinase 2; Short=FADK 2; AltName: Full=Proline-rich tyrosine kinase 2 [Rattus norvegicus]
+RILGEGFFGEVYEGVYTNHKGEKIN--VAVKTCKKDCTLDNKEKFMSEAVIMKNLDHPHIVKLIGIIEEEPTWIV
+>sp|P43403.1| RecName: Full=Tyrosine-protein kinase ZAP-70; AltName: Full=70 kDa zeta-chain associated protein; AltName: Full=Syk-related tyrosine kinase [Homo sapiens]
+LGCGNFGSVRQGVY--RMRKKQIDVAIKVLKQGTEKADTEEMMREAQIMHQLDNPYIVRLIGVCQAEALMLVMEM
+>sp|Q9QVP9.2| RecName: Full=Protein-tyrosine kinase 2-beta; AltName: Full=Calcium-dependent tyrosine kinase; Short=CADTK; AltName: Full=Calcium-regulated non-receptor proline-rich tyrosine kinase; AltName: Full=Cell adhesion kinase beta; Short=CAK-beta; Short=CAKB; AltName: Full=Focal adhesion kinase 2; Short=FADK 2; AltName: Full=Proline-rich tyrosine kinase 2; AltName: Full=Related adhesion focal tyrosine kinase; Short=RAFTK [Mus musculus]
+RILGEGFFGEVYEGVYTNHKGEKIN--VAVKTCKKDCTQDNKEKFMSEAVIMKNLDHPHIVKLIGIIEEEPTWII
+>sp|P54755.1| RecName: Full=Ephrin type-A receptor 5; AltName: Full=EPH-like kinase 7; Short=EK7; Short=cEK7; Flags: Precursor [Gallus gallus]
+EDPNQAVHEFAKEIEASCITIERVIGAGEFGEVCSGRLKLQGKR-EFPVAIKTLKVGYTEKQRRDFLGEASIMGQ
+>sp|Q00944.2| RecName: Full=Focal adhesion kinase 1; Short=FADK 1; AltName: Full=Focal adhesion kinase-related nonkinase; Short=FRNK; Short=p41/p43FRNK; AltName: Full=Protein-tyrosine kinase 2; AltName: Full=p125FAK; AltName: Full=pp125FAK [Gallus gallus]
+RCIGEGQFGDVHQGIYM-SPENPAMAVAIKTCKNCTSDSVREKFLQEALTMRQFDHPHIVKLIGVITENPVWIIM
+>sp|O54967.2| RecName: Full=Activated CDC42 kinase 1; Short=ACK-1; AltName: Full=Non-receptor protein tyrosine kinase Ack; AltName: Full=Tyrosine kinase non-receptor protein 2 [Mus musculus]
+GEGTLQSLTCLIGEKDLRLLEKLGDGSFGVVRRGEWDAPAGKTVSVAVKCLKPDVLSQPEAMDDFIREVNAMHSL
+>sp|Q14289.2| RecName: Full=Protein-tyrosine kinase 2-beta; AltName: Full=Calcium-dependent tyrosine kinase; Short=CADTK; AltName: Full=Calcium-regulated non-receptor proline-rich tyrosine kinase; AltName: Full=Cell adhesion kinase beta; Short=CAK-beta; Short=CAKB; AltName: Full=Focal adhesion kinase 2; Short=FADK 2; AltName: Full=Proline-rich tyrosine kinase 2; AltName: Full=Related adhesion focal tyrosine kinase; Short=RAFTK [Homo sapiens]
+RILGEGFFGEVYEGVYTNHKGEKIN--VAVKTCKKDCTLDNKEKFMSEAVIMKNLDHPHIVKLIGIIEEEPTWII
+>sp|P10447.1| RecName: Full=Tyrosine-protein kinase transforming protein Abl; AltName: Full=V-abl [Feline sarcoma virus (STRAIN HARDY-ZUCKERMAN 2)]
+MERTDITMKHKLGGGQYGEVYEGVW----KKYSLTVAVKTLKEDTMEV--EEFLKEAAVMKEIKHPNLVQLLGVC
+>sp|P43404.3| RecName: Full=Tyrosine-protein kinase ZAP-70; AltName: Full=70 kDa zeta-chain associated protein; AltName: Full=Syk-related tyrosine kinase [Mus musculus]
+LGCGNFGSVRQGVY--RMRKKQIDVAIKVLKQGTEKADKDEMMREAQIMHQLDNPYIVRLIGVCQAEALMLVMEM
+>sp|Q17R13.1| RecName: Full=Activated CDC42 kinase 1; Short=ACK-1; AltName: Full=Activated CDC42 kinase 2; AltName: Full=Tyrosine kinase non-receptor protein 2 [Bos taurus]
+SAGEGSLQSLTCLIGEKDLHLFEKLGDGSFGVVRRGEWDAPSGKTVSVAVKCLKPDVLSQPEAMDDFIREVNAMH
+>sp|Q4JIM5.1| RecName: Full=Tyrosine-protein kinase ABL2; AltName: Full=Abelson murine leukemia viral oncogene homolog 2; AltName: Full=Abelson tyrosine-protein kinase 2; AltName: Full=Abelson-related gene protein; AltName: Full=Tyrosine-protein kinase ARG [Mus musculus]
+MERTDITMKHKLGGGQYGEVYVGVW----KKYSLTVAVKTFKEDT--MEVEEFLKEAAVMKEIKHPNLVQLLGVC
+>sp|Q8CBF3.1| RecName: Full=Ephrin type-B receptor 1; Flags: Precursor [Mus musculus]
+EDPNEAVREFAKEIDVSFVKIEEVIGAGEFGEVYKGRLKLPGKR-EIYVAIKTLKAGYSEKQRRDFLSEASIMGQ
+>sp|P09759.2| RecName: Full=Ephrin type-B receptor 1; AltName: Full=ELK; AltName: Full=Tyrosine-protein kinase receptor EPH-2; Flags: Precursor [Rattus norvegicus]
+EDPNEAVREFAKEIDVSFVKIEEVIGAGEFGEVYKGRLKLPGKR-EIYVAIKTLKAGYSEKQRRDFLSEASIMGQ
+>sp|P29318.1| RecName: Full=Ephrin type-A receptor 3; AltName: Full=EPH-like kinase 4; Short=EK4; Short=cEK4; AltName: Full=Tyrosine-protein kinase receptor ETK1; Flags: Precursor [Gallus gallus]
+EDPNQAVHEFAKELDASNISIDKVVGAGEFGEVCSGRLKLPS--KKEISVAIKTLKAGYTEKQRRDFLGEASIMG
+>sp|Q91736.1| RecName: Full=Ephrin type-B receptor 1-B; AltName: Full=Tyrosine-protein kinase receptor XELK [Xenopus laevis]
+EDPNEAVREFAKEIDVSFVKIEEVIGAGEFGEVYKGRLKLPS--KREISVAIKTLKAGYSEKQRRDFLSEASIMG
+>sp|P54762.1| RecName: Full=Ephrin type-B receptor 1; AltName: Full=ELK; AltName: Full=EPH tyrosine kinase 2; AltName: Full=EPH-like kinase 6; Short=EK6; Short=hEK6; AltName: Full=Neuronally-expressed EPH-related tyrosine kinase; Short=NET; AltName: Full=Tyrosine-protein kinase receptor EPH-2; Flags: Precursor [Homo sapiens]
+EDPNEAVREFAKEIDVSFVKIEEVIGAGEFGEVYKGRLKLPGKR-EIYVAIKTLKAGYSEKQRRDFLSEASIMGQ
+>sp|Q03145.3| RecName: Full=Ephrin type-A receptor 2; AltName: Full=Epithelial cell kinase; AltName: Full=Tyrosine-protein kinase receptor ECK; AltName: Full=Tyrosine-protein kinase receptor MPK-5; AltName: Full=Tyrosine-protein kinase receptor SEK-2; Flags: Precursor [Mus musculus]
+EDPNQAVLKFTTEIHPSCVARQKVIGAGEFGEVYKGTLKASSGKKEIPVAIKTLKAGYTEKQRVDFLSEASIMGQ
+>sp|P00521.1| RecName: Full=Tyrosine-protein kinase transforming protein Abl; AltName: Full=V-abl [Abelson murine leukemia virus]
+LGGGQYGEVYEGVW----KKYSLTVAVKTLKEDT--MEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITE
+>sp|Q60629.2| RecName: Full=Ephrin type-A receptor 5; AltName: Full=Brain-specific kinase; AltName: Full=CEK-7; AltName: Full=EPH homology kinase 1; Short=EHK-1; Flags: Precursor [Mus musculus]
+EDPNQAVHEFAKEIEASCITIERVIGAGEFGEVCSGRLKLPGKR-ELPVAIKTLKVGYTEKQRRDFLGEASIMGQ
+>sp|P29320.2| RecName: Full=Ephrin type-A receptor 3; AltName: Full=EPH-like kinase 4; Short=EK4; Short=hEK4; AltName: Full=HEK; Short=Human embryo kinase; AltName: Full=Tyrosine-protein kinase TYRO4; AltName: Full=Tyrosine-protein kinase receptor ETK1; Short=Eph-like tyrosine kinase 1; Flags: Precursor [Homo sapiens]
+EDPTQAVHEFAKELDATNISIDKVVGAGEFGEVCSGRLKLPS--KKEISVAIKTLKVGYTEKQRRDFLGEASIMG
+>sp|P21709.4| RecName: Full=Ephrin type-A receptor 1; Short=hEpha1; AltName: Full=EPH tyrosine kinase; AltName: Full=EPH tyrosine kinase 1; AltName: Full=Erythropoietin-producing hepatoma receptor; AltName: Full=Tyrosine-protein kinase receptor EPH; Flags: Precursor [Homo sapiens]
+EDPAQGALDFTRELDPAWLMVDTVIGEGEFGEVYRGTLRLPSQDCKT-VAIKTLKDTSPGGQWWNFLREATIMGQ
+>sp|P29317.2| RecName: Full=Ephrin type-A receptor 2; AltName: Full=Epithelial cell kinase; AltName: Full=Tyrosine-protein kinase receptor ECK; Flags: Precursor [Homo sapiens]
+EDPNQAVLKFTTEIHPSCVTRQKVIGAGEFGEVYKGMLKTSSGKKEVPVAIKTLKAGYTEKQRVDFLGEAGIMGQ
+>sp|Q24145.2| RecName: Full=Tyrosine-protein kinase Shark [Drosophila melanogaster]
+IGHGEFGSVHSG-WLLRKSGAGEESRLEVAIKMLSDEHSNK--QEFLREASVMMRLEHKCIVRLIGIAKGEMLMM
+>sp|Q07494.2| RecName: Full=Ephrin type-B receptor 1; AltName: Full=EPH-like kinase 6; Short=EK6; Short=cEK6; AltName: Full=Tyrosine-protein kinase receptor EPH-2 [Gallus gallus]
+EDPNEAVREFAKEIDVSFVKIEEVIGAGEFGEVYKGRLKLPGKR-EIYVAIKTLKAGYSEKQRRDFLSEASIMGQ
+>sp|P07949.3| RecName: Full=Proto-oncogene tyrosine-protein kinase receptor Ret; AltName: Full=Cadherin family member 12; AltName: Full=Proto-oncogene c-Ret; Contains: RecName: Full=Soluble RET kinase fragment; Contains: RecName: Full=Extracellular cell-membrane anchored RET cadherin 120 kDa fragment; Flags: Precursor [Homo sapiens]
+KTLGEGEFGKVVKATAFHLKGRAGYTTVAVKMLKENASPSELRDLLSEFNVLKQVNHPHVIKLYGACSQDGPLLL
+>sp|Q60750.2| RecName: Full=Ephrin type-A receptor 1; Short=mEpha1; AltName: Full=Embryonic stem cell kinase; AltName: Full=Tyrosine-protein kinase receptor ESK; Flags: Precursor [Mus musculus]
+EDPAQGALDFAQELDPAWLIVDTVIGEGEFGEVYRGALRLPSQDCKT-VAIKTLKDTSPDGYWWNFLREATIMGQ
+>sp|Q1KL86.1| RecName: Full=Ephrin type-A receptor 2; Flags: Precursor [Macaca fascicularis]
+EDPNQAVLKFTTEIHPSCVTRQKVIGAGEFGEVYKGTLKTSSGKKEVPVAIKTLKAGYTEKQRVDFLGEAGIMGQ
+>sp|P00519.4| RecName: Full=Tyrosine-protein kinase ABL1; AltName: Full=Abelson murine leukemia viral oncogene homolog 1; AltName: Full=Abelson tyrosine-protein kinase 1; AltName: Full=Proto-oncogene c-Abl; AltName: Full=p150 [Homo sapiens]
+LGGGQYGEVYEGVW----KKYSLTVAVKTLKEDT--MEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITE
+>sp|Q91571.1| RecName: Full=Ephrin type-B receptor 1-A; AltName: Full=Tyrosine-protein kinase receptor XEK; Flags: Precursor [Xenopus laevis]
+EDPNEAVREFAKEIDVSFVKIEEVIGAGEFGEVYKGRLKLPS--KREISVAIKTLKAGYSEKQRRDFLSEASIMG
+>sp|P00520.3| RecName: Full=Tyrosine-protein kinase ABL1; AltName: Full=Abelson murine leukemia viral oncogene homolog 1; AltName: Full=Abelson tyrosine-protein kinase 1; AltName: Full=Proto-oncogene c-Abl; AltName: Full=p150 [Mus musculus]
+LGGGQYGEVYEGVW----KKYSLTVAVKTLKEDT--MEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITE
+>sp|O08680.1| RecName: Full=Ephrin type-A receptor 3; AltName: Full=EPH-like kinase 4; Short=EK4; Short=rEK4; AltName: Full=Tyrosine-protein kinase TYRO4; Flags: Precursor [Rattus norvegicus]
+EDPTQAVHEFAKELDATNIAIDKVVGAGEFGEVCSGRLKLPS--KKEISVAIKTLKVGYTEKQRRDFLGEASIMG
+>sp|P00529.1| RecName: Full=Tyrosine-protein kinase transforming protein ros [UR2 sarcoma virus]
+AVSTLPSQAEIESLPAFPRDKLNLHKLLGSGAFGEVYEGTALDILADGSGESRVAVKTLKRGATDQEKSEFLKEA
+>sp|P29319.1| RecName: Full=Ephrin type-A receptor 3; AltName: Full=EPH-like kinase 4; Short=EK4; Short=mEK4; AltName: Full=Tyrosine-protein kinase TYRO4; AltName: Full=Tyrosine-protein kinase receptor ETK1; Flags: Precursor [Mus musculus]
+EDPTQAVHEFAKELDATNISIDKVVGAGEFGEVCSGRLKLPS--KKEISVAIKTLKVGYTEKQRRDFLGEASIMG
+>sp|P54763.3| RecName: Full=Ephrin type-B receptor 2; AltName: Full=Neural kinase; AltName: Full=Nuk receptor tyrosine kinase; AltName: Full=Tyrosine-protein kinase receptor EPH-3; AltName: Full=Tyrosine-protein kinase receptor SEK-3; Contains: RecName: Full=EphB2/CTF1; Contains: RecName: Full=EphB2/CTF2; Flags: Precursor [Mus musculus]
+EDPNEAVREFAKEIDISCVKIEQVIGAGEFGEVCSGHLKLPG--KREIFVAIKTLKSGYTEKQRRDFLSEASIMG
+>sp|P29323.5| RecName: Full=Ephrin type-B receptor 2; AltName: Full=Developmentally-regulated Eph-related tyrosine kinase; AltName: Full=ELK-related tyrosine kinase; AltName: Full=EPH tyrosine kinase 3; AltName: Full=EPH-like kinase 5; Short=EK5; Short=hEK5; AltName: Full=Renal carcinoma antigen NY-REN-47; AltName: Full=Tyrosine-protein kinase TYRO5; AltName: Full=Tyrosine-protein kinase receptor EPH-3; Contains: RecName: Full=EphB2/CTF1; Contains: RecName: Full=EphB2/CTF2; Flags: Precursor [Homo sapiens]
+EDPNEAVREFAKEIDISCVKIEQVIGAGEFGEVCSGHLKLPG--KREIFVAIKTLKSGYTEKQRRDFLSEASIMG
+>sp|Q108U6.1| RecName: Full=Hepatocyte growth factor receptor; Short=HGF receptor; AltName: Full=HGF/SF receptor; AltName: Full=Proto-oncogene c-Met; AltName: Full=Scatter factor receptor; Short=SF receptor; AltName: Full=Tyrosine-protein kinase Met; Flags: Precursor [Loxodonta africana]
+EVIGRGHFGCVYHGTLLDNGDK-KIHCAVKSLNRITDIGEVSQFLTEGIIMKDFSHPNVLSLLGICLRSEGSPLV
+>sp|P54756.3| RecName: Full=Ephrin type-A receptor 5; AltName: Full=Brain-specific kinase; AltName: Full=EPH homology kinase 1; Short=EHK-1; AltName: Full=EPH-like kinase 7; Short=EK7; Short=hEK7; Flags: Precursor [Homo sapiens]
+EDPNQAVHEFAKEIEASCITIERVIGAGEFGEVCSGRLKLPGKR-ELPVAIKTLKVGYTEKQRRDFLGEASIMGQ
+>sp|Q07E48.1| RecName: Full=Hepatocyte growth factor receptor; Short=HGF receptor; AltName: Full=HGF/SF receptor; AltName: Full=Proto-oncogene c-Met; AltName: Full=Scatter factor receptor; Short=SF receptor; AltName: Full=Tyrosine-protein kinase Met; Flags: Precursor [Dasypus novemcinctus]
+EVIGRGHFGCVYHGTLLDSDDK-KIHCAVKSLNRITDIGEVSQFLTEGIIMKDFSHPNVLSLLGICLRSEGSPLV
+>sp|O13146.1| RecName: Full=Ephrin type-A receptor 3; AltName: Full=EPH-like kinase 1; AltName: Full=Tyrosine-protein kinase receptor ZEK1; Flags: Precursor [Danio rerio]
+HPHTYEDPNQAVRDFAKEIEVSNIRIERVIGAGEFGEVCSGRLRLPS--KREIQVAIKSLKAGYSEHQRRDFLSE
+>sp|Q91694.1| RecName: Full=Ephrin type-A receptor 4-B; AltName: Full=Pagliaccio; AltName: Full=Tyrosine-protein kinase receptor PAG; Flags: Precursor [Xenopus laevis]
+EDPNQAVREFAKEIDASCIKIEKVIGVGEFGEVCSGRLKVPG--KREIYVAIKTLKAGYTDKQRRDFLSEASIMG
+>sp|P28693.3| RecName: Full=Ephrin type-B receptor 2; AltName: Full=EPH-like kinase 5; Short=EK5; Short=cEK5; Contains: RecName: Full=EphB2/CTF1; Contains: RecName: Full=EphB2/CTF2; Flags: Precursor [Gallus gallus]
+EDPNEAVREFAKEIDISCVKIEQVIGAGEFGEVCSGHLKLPG--KREIFVAIKTLKSGYTEKQRRDFLSEASIMG
+>sp|G3V9H8.1| RecName: Full=Proto-oncogene tyrosine-protein kinase receptor Ret; Contains: RecName: Full=Soluble RET kinase fragment; Contains: RecName: Full=Extracellular cell-membrane anchored RET cadherin 120 kDa fragment; Flags: Precursor [Rattus norvegicus]
+KTLGEGEFGKVVKATAFRLKGRAGYTTVAVKMLKENASQSELRDLLSEFNLLKQVNHPHVIKLYGACSQDGPLLL
+>sp|P35546.2| RecName: Full=Proto-oncogene tyrosine-protein kinase receptor Ret; AltName: Full=Proto-oncogene c-Ret; Contains: RecName: Full=Soluble RET kinase fragment; Contains: RecName: Full=Extracellular cell-membrane anchored RET cadherin 120 kDa fragment; Flags: Precursor [Mus musculus]
+KTLGEGEFGKVVKATAFRLKGRAGYTTVAVKMLKENASQSELRDLLSEFNLLKQVNHPHVIKLYGACSQDGPLLL
+>sp|P54761.2| RecName: Full=Ephrin type-B receptor 4; AltName: Full=Developmental kinase 2; Short=mDK-2; AltName: Full=Hepatoma transmembrane kinase; AltName: Full=Tyrosine kinase MYK-1; Flags: Precursor [Mus musculus]
+EDPNEAVREFAKEIDVSYVKIEEVIGAGEFGEVCRGRLKAPGKKESC-VAIKTLKGGYTERQRREFLSEASIMGQ
+>sp|P54760.2| RecName: Full=Ephrin type-B receptor 4; AltName: Full=Hepatoma transmembrane kinase; AltName: Full=Tyrosine-protein kinase TYRO11; Flags: Precursor [Homo sapiens]
+EDPNEAVREFAKEIDVSYVKIEEVIGAGEFGEVCRGRLKAPGKKESC-VAIKTLKGGYTERQRREFLSEASIMGQ
+>sp|P00522.3| RecName: Full=Tyrosine-protein kinase Abl; AltName: Full=D-ash; AltName: Full=Protein abelson [Drosophila melanogaster]
+LGGGQYGEVYEAVWKRYGNTV----AVKTLKEDT--MALKDFLEEAAIMKEMKHPNLVQLIGVCTREPPFYIITE
+>sp|Q90344.1| RecName: Full=Ephrin type-B receptor 2; AltName: Full=EPH-like kinase 5; Short=EK5; Short=qEK5; Contains: RecName: Full=EphB2/CTF1; Contains: RecName: Full=EphB2/CTF2; Flags: Precursor [Coturnix japonica]
+EDPNEAVREFAKEIDISCVKIEQVIGAGEFGEVCSGHLKLPG--KREIFVAIKTLKSGYTEKQRRDFLSEASIMG
+>sp|O13148.1| RecName: Full=Ephrin type-A receptor 4a; AltName: Full=EPH-like kinase 2; AltName: Full=Tyrosine-protein kinase receptor ZEK2 [Danio rerio]
+IGIGEFGEVCSGRLKMPGKR-EICVAIKTLKAGYTDKQRRDFLSEASIMGQFDHPNIIRLEGVVTKCKPVMIITE
+>sp|Q61772.2| RecName: Full=Ephrin type-A receptor 7; AltName: Full=Developmental kinase 1; Short=mDK-1; AltName: Full=EPH homology kinase 3; Short=EHK-3; AltName: Full=Embryonic brain kinase; Short=EBK; Flags: Precursor [Mus musculus]
+EDPNRAVHQFAKELDASCIKIERVIGAGEFGEVCSGRLKLPGKR-DVAVAIKTLKVGYTEKQRRDFLCEASIMGQ
+>sp|Q03137.2| RecName: Full=Ephrin type-A receptor 4; AltName: Full=Tyrosine-protein kinase receptor MPK-3; AltName: Full=Tyrosine-protein kinase receptor SEK-1; Flags: Precursor [Mus musculus]
+EDPNQAVREFAKEIDASCIKIEKVIGVGEFGEVCSGRLKVPG--KREICVAIKTLKAGYTDKQRRDFLSEASIMG
+>sp|Q07496.2| RecName: Full=Ephrin type-A receptor 4; AltName: Full=EPH-like kinase 8; Short=EK8; Short=cEK8; Flags: Precursor [Gallus gallus]
+EDPNQAVREFAKEIDASCIKIEKVIGVGEFGEVCSGRLKVPG--KREICVAIKTLKAGYTDKQRRDFLSEASIMG
+>sp|P54764.1| RecName: Full=Ephrin type-A receptor 4; AltName: Full=EPH-like kinase 8; Short=EK8; Short=hEK8; AltName: Full=Tyrosine-protein kinase TYRO1; AltName: Full=Tyrosine-protein kinase receptor SEK; Flags: Precursor [Homo sapiens]
+EDPNQAVREFAKEIDASCIKIEKVIGVGEFGEVCSGRLKVPG--KREICVAIKTLKAGYTDKQRRDFLSEASIMG
+>sp|P54757.1| RecName: Full=Ephrin type-A receptor 5; AltName: Full=EPH homology kinase 1; Short=EHK-1; Flags: Precursor [Rattus norvegicus]
+EDPTQAVHEFGKEIEASCITIERVIGAGEFGEVCSGRLKLPGKR-ELPVATKTLKVGYTEKQRRDFLSEASIMGQ
+>sp|Q91845.1| RecName: Full=Ephrin type-A receptor 4-A; AltName: Full=Tyrosine-protein kinase receptor SEK-1; Short=xSEK-1; Flags: Precursor [Xenopus laevis]
+EDPNQAVREFAKEIDASCIKIEKVIGVGEFGEVCSGRLKVPG--KREIYVAIKTLKAGYTDKQRRDFLSEASIMG
+>sp|Q2IBC0.1| RecName: Full=Hepatocyte growth factor receptor; Short=HGF receptor; AltName: Full=HGF/SF receptor; AltName: Full=Proto-oncogene c-Met; AltName: Full=Scatter factor receptor; Short=SF receptor; AltName: Full=Tyrosine-protein kinase Met; Flags: Precursor [Rhinolophus ferrumequinum]
+EVIGRGHFGCVYHGTLLDNDDK-KIHCAVKSLNRITDIGEVSQFLTEGIIMKDFSHPNVLSLLGICLRSEGSPLV
+>sp|A0M8R7.1| RecName: Full=Hepatocyte growth factor receptor; Short=HGF receptor; AltName: Full=HGF/SF receptor; AltName: Full=Proto-oncogene c-Met; AltName: Full=Scatter factor receptor; Short=SF receptor; AltName: Full=Tyrosine-protein kinase Met; Flags: Precursor [Papio anubis]
+EVIGRGHFGCVYHGTLLDNDGK-KIHCAVKSLNRITDIGEVSQFLTEGIIMKDFSHPNVLSLLGICLRSEGSPLV
+>sp|P08581.4| RecName: Full=Hepatocyte growth factor receptor; Short=HGF receptor; AltName: Full=HGF/SF receptor; AltName: Full=Proto-oncogene c-Met; AltName: Full=Scatter factor receptor; Short=SF receptor; AltName: Full=Tyrosine-protein kinase Met; Flags: Precursor [Homo sapiens]
+EVIGRGHFGCVYHGTLLDNDGK-KIHCAVKSLNRITDIGEVSQFLTEGIIMKDFSHPNVLSLLGICLRSEGSPLV
+>sp|Q07DZ1.1| RecName: Full=Hepatocyte growth factor receptor; Short=HGF receptor; AltName: Full=HGF/SF receptor; AltName: Full=Proto-oncogene c-Met; AltName: Full=Scatter factor receptor; Short=SF receptor; AltName: Full=Tyrosine-protein kinase Met; Flags: Precursor [Colobus guereza]
+EVIGRGHFGCVYHGTLLDNDGK-KIHCAVKSLNRITDIGEVSQFLTEGIIMKDFSHPNVLSLLGICLRSEGSPLV
+>sp|Q2IBF2.1| RecName: Full=Hepatocyte growth factor receptor; Short=HGF receptor; AltName: Full=HGF/SF receptor; AltName: Full=Proto-oncogene c-Met; AltName: Full=Scatter factor receptor; Short=SF receptor; AltName: Full=Tyrosine-protein kinase Met; Flags: Precursor [Gorilla gorilla gorilla]
+EVIGRGHFGCVYHGTLLDNDGK-KIHCAVKSLNRITDIGEVSQFLTEGIIMKDFSHPNVLSLLGICLRSEGSPLV
+>sp|Q2IBA6.1| RecName: Full=Hepatocyte growth factor receptor; Short=HGF receptor; AltName: Full=HGF/SF receptor; AltName: Full=Proto-oncogene c-Met; AltName: Full=Scatter factor receptor; Short=SF receptor; AltName: Full=Tyrosine-protein kinase Met; Flags: Precursor [Chlorocebus aethiops]
+EVIGRGHFGCVYHGTLLDNDGK-KIHCAVKSLNRITDIGEVSQFLTEGIIMKDFSHPNVLSLLGICLRSEGSPLV
+>sp|P54759.1| RecName: Full=Ephrin type-A receptor 7; AltName: Full=EPH homology kinase 3; Short=EHK-3; Flags: Precursor [Rattus norvegicus]
+EDPNRAVHQFAKELDASCIKIERVIGAGEFGEVCSGRLKLPGKR-DVAVAIKTLKVGYTEKQRRDFLCEASIMGQ
+>sp|Q2QLF1.1| RecName: Full=Hepatocyte growth factor receptor; Short=HGF receptor; AltName: Full=HGF/SF receptor; AltName: Full=Proto-oncogene c-Met; AltName: Full=Scatter factor receptor; Short=SF receptor; AltName: Full=Tyrosine-protein kinase Met; Flags: Precursor [Pan troglodytes]
+EVIGRGHFGCVYHGTLLDNDGK-KIHCAVKSLNRITDIGEVSQFLTEGIIMKDFSHPNVLSLLGICLRSEGSPLV
+>sp|Q2IBD8.1| RecName: Full=Hepatocyte growth factor receptor; Short=HGF receptor; AltName: Full=HGF/SF receptor; AltName: Full=Proto-oncogene c-Met; AltName: Full=Scatter factor receptor; Short=SF receptor; AltName: Full=Tyrosine-protein kinase Met; Flags: Precursor [Pongo abelii]
+EVIGRGHFGCVYHGTLLDNDGK-KIHCAVKSLNRITDIGEVSQFLTEGIIMKDFSHPNVLSLLGICLRSEGSPLV
+>sp|Q15375.3| RecName: Full=Ephrin type-A receptor 7; AltName: Full=EPH homology kinase 3; Short=EHK-3; AltName: Full=EPH-like kinase 11; Short=EK11; Short=hEK11; Flags: Precursor [Homo sapiens]
+EDPNRAVHQFAKELDASCIKIERVIGAGEFGEVCSGRLKLPGKR-DVAVAIKTLKVGYTEKQRRDFLCEASIMGQ
+>sp|Q09YK0.1| RecName: Full=Hepatocyte growth factor receptor; Short=HGF receptor; AltName: Full=HGF/SF receptor; AltName: Full=Proto-oncogene c-Met; AltName: Full=Scatter factor receptor; Short=SF receptor; AltName: Full=Tyrosine-protein kinase Met; Flags: Precursor [Muntiacus muntjak]
+EVIGRGHFGCVYHGTLLDNDDK-KIHCAVKSLNRITDIGEVSQFLTEGIIMKDFSHPNVLSLLGICLRSEGSPLV
